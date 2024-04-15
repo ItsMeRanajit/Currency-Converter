@@ -9,6 +9,6 @@
     <p>A simple tool for quick and accurate currency conversions.</p>
     <p>Convert between currencies effortlessly, with real-time exchange rates.</p>
     <p>Try it out now!</p>
-    <p>For more information, visit the [live demo](#) or check out the <a href="https://github.com/your-username/currency-converter">GitHub repository</a>.</p>
+    <p>For more information, visit the [live demo](#) or check out the <a href="https://github.com/ItsMeRanajit/Currency-Converter.git">GitHub repository</a>.</p>
 </body>
 </html>
